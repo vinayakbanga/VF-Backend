@@ -1,0 +1,11 @@
+cloudinary==1.29.0
+Flask==2.0.2
+Flask-Cors==3.1.1
+insightface==0.3.2
+Keras==2.7.0
+matplotlib==3.5.1
+numpy==1.21.5
+opencv-python==4.5.5.62
+python-dotenv==0.19.2
+tensorflow==2.7.0
+werkzeug==2.0.2
